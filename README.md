@@ -8,7 +8,7 @@ Pass either *encrypt* or *decrypt* along with the message to `fibrot`. For insta
 
 ```console
 $ fibrot encrypt "Hello World"
-$ docker run --rm macyber/fibrot fibrot encrypt "Hello World"
+$ docker run --rm maccyber/fibrot fibrot encrypt "Hello World"
 ```
 
     Hfmnr Bwegl
@@ -17,7 +17,7 @@ $ docker run --rm macyber/fibrot fibrot encrypt "Hello World"
 
 ```console
 $ fibrot decrypt "Gppfedm Pmchw Knexc"
-$ docker run --rm macyber/fibrot fibrot decrypt "Gppfedm Pmchw Knexc"
+$ docker run --rm maccyber/fibrot fibrot decrypt "Gppfedm Pmchw Knexc"
 ```
 
     Goodbye Cruel World
